@@ -3,165 +3,15 @@
 		{
 			"image": "isopod-maze.png",
 			"size": {
-				"w": 4021,
-				"h": 3598
+				"w": 3083,
+				"h": 3782
 			},
 			"sprites": [
 				{
-					"filename": "isopod-interior-0.png",
+					"filename": "isopod-maze-0.png",
 					"region": {
 						"x": 1,
 						"y": 1,
-						"w": 512,
-						"h": 512
-					},
-					"margin": {
-						"x": 0,
-						"y": 0,
-						"w": 0,
-						"h": 0
-					}
-				},
-				{
-					"filename": "isopod-interior-1.png",
-					"region": {
-						"x": 1,
-						"y": 515,
-						"w": 512,
-						"h": 512
-					},
-					"margin": {
-						"x": 0,
-						"y": 0,
-						"w": 0,
-						"h": 0
-					}
-				},
-				{
-					"filename": "isopod-interior-3.png",
-					"region": {
-						"x": 515,
-						"y": 1,
-						"w": 512,
-						"h": 512
-					},
-					"margin": {
-						"x": 0,
-						"y": 0,
-						"w": 0,
-						"h": 0
-					}
-				},
-				{
-					"filename": "isopod-interior-4.png",
-					"region": {
-						"x": 1,
-						"y": 1029,
-						"w": 512,
-						"h": 512
-					},
-					"margin": {
-						"x": 0,
-						"y": 0,
-						"w": 0,
-						"h": 0
-					}
-				},
-				{
-					"filename": "isopod-interior-6.png",
-					"region": {
-						"x": 515,
-						"y": 515,
-						"w": 512,
-						"h": 512
-					},
-					"margin": {
-						"x": 0,
-						"y": 0,
-						"w": 0,
-						"h": 0
-					}
-				},
-				{
-					"filename": "isopod-interior-7.png",
-					"region": {
-						"x": 1029,
-						"y": 1,
-						"w": 512,
-						"h": 512
-					},
-					"margin": {
-						"x": 0,
-						"y": 0,
-						"w": 0,
-						"h": 0
-					}
-				},
-				{
-					"filename": "isopod-interior-9.png",
-					"region": {
-						"x": 1,
-						"y": 1543,
-						"w": 512,
-						"h": 512
-					},
-					"margin": {
-						"x": 0,
-						"y": 0,
-						"w": 0,
-						"h": 0
-					}
-				},
-				{
-					"filename": "isopod-interior-10.png",
-					"region": {
-						"x": 515,
-						"y": 1029,
-						"w": 512,
-						"h": 512
-					},
-					"margin": {
-						"x": 0,
-						"y": 0,
-						"w": 0,
-						"h": 0
-					}
-				},
-				{
-					"filename": "isopod-interior-12.png",
-					"region": {
-						"x": 1029,
-						"y": 515,
-						"w": 512,
-						"h": 512
-					},
-					"margin": {
-						"x": 0,
-						"y": 0,
-						"w": 0,
-						"h": 0
-					}
-				},
-				{
-					"filename": "isopod-interior-13.png",
-					"region": {
-						"x": 1543,
-						"y": 1,
-						"w": 512,
-						"h": 512
-					},
-					"margin": {
-						"x": 0,
-						"y": 0,
-						"w": 0,
-						"h": 0
-					}
-				},
-				{
-					"filename": "isopod-interior-14.png",
-					"region": {
-						"x": 1,
-						"y": 2057,
 						"w": 512,
 						"h": 512
 					},
@@ -175,8 +25,8 @@
 				{
 					"filename": "isopod-maze-28.png",
 					"region": {
-						"x": 515,
-						"y": 1543,
+						"x": 1,
+						"y": 515,
 						"w": 512,
 						"h": 512
 					},
@@ -190,8 +40,8 @@
 				{
 					"filename": "isopod-maze-29.png",
 					"region": {
-						"x": 1029,
-						"y": 1029,
+						"x": 515,
+						"y": 1,
 						"w": 512,
 						"h": 512
 					},
@@ -205,8 +55,8 @@
 				{
 					"filename": "isopod-maze-43.png",
 					"region": {
-						"x": 1543,
-						"y": 515,
+						"x": 1,
+						"y": 1029,
 						"w": 512,
 						"h": 512
 					},
@@ -220,8 +70,8 @@
 				{
 					"filename": "isopod-maze-44.png",
 					"region": {
-						"x": 2057,
-						"y": 1,
+						"x": 515,
+						"y": 515,
 						"w": 512,
 						"h": 512
 					},
@@ -235,8 +85,8 @@
 				{
 					"filename": "isopod-maze-47.png",
 					"region": {
-						"x": 1,
-						"y": 2571,
+						"x": 1029,
+						"y": 1,
 						"w": 512,
 						"h": 512
 					},
@@ -251,7 +101,7 @@
 					"filename": "isopod-maze-52.png",
 					"region": {
 						"x": 1,
-						"y": 3085,
+						"y": 1543,
 						"w": 512,
 						"h": 512
 					},
@@ -266,7 +116,7 @@
 					"filename": "isopod-maze-54.png",
 					"region": {
 						"x": 515,
-						"y": 2057,
+						"y": 1029,
 						"w": 512,
 						"h": 512
 					},
@@ -281,7 +131,7 @@
 					"filename": "isopod-maze-59.png",
 					"region": {
 						"x": 1029,
-						"y": 1543,
+						"y": 515,
 						"w": 512,
 						"h": 512
 					},
@@ -296,7 +146,7 @@
 					"filename": "isopod-maze-64.png",
 					"region": {
 						"x": 1543,
-						"y": 1029,
+						"y": 1,
 						"w": 512,
 						"h": 512
 					},
@@ -310,8 +160,8 @@
 				{
 					"filename": "isopod-maze-66.png",
 					"region": {
-						"x": 2057,
-						"y": 515,
+						"x": 1,
+						"y": 2057,
 						"w": 512,
 						"h": 512
 					},
@@ -325,8 +175,8 @@
 				{
 					"filename": "isopod-maze-68.png",
 					"region": {
-						"x": 2571,
-						"y": 1,
+						"x": 515,
+						"y": 1543,
 						"w": 512,
 						"h": 512
 					},
@@ -340,8 +190,8 @@
 				{
 					"filename": "isopod-maze-75.png",
 					"region": {
-						"x": 515,
-						"y": 2571,
+						"x": 1029,
+						"y": 1029,
 						"w": 512,
 						"h": 512
 					},
@@ -355,8 +205,8 @@
 				{
 					"filename": "isopod-maze-79.png",
 					"region": {
-						"x": 515,
-						"y": 3085,
+						"x": 1543,
+						"y": 515,
 						"w": 512,
 						"h": 512
 					},
@@ -370,98 +220,8 @@
 				{
 					"filename": "isopod-maze-80.png",
 					"region": {
-						"x": 1029,
-						"y": 2057,
-						"w": 512,
-						"h": 512
-					},
-					"margin": {
-						"x": 0,
-						"y": 0,
-						"w": 0,
-						"h": 0
-					}
-				},
-				{
-					"filename": "isopod-maze-84.png",
-					"region": {
-						"x": 1543,
-						"y": 1543,
-						"w": 512,
-						"h": 512
-					},
-					"margin": {
-						"x": 0,
-						"y": 0,
-						"w": 0,
-						"h": 0
-					}
-				},
-				{
-					"filename": "isopod-maze-91.png",
-					"region": {
 						"x": 2057,
-						"y": 1029,
-						"w": 512,
-						"h": 512
-					},
-					"margin": {
-						"x": 0,
-						"y": 0,
-						"w": 0,
-						"h": 0
-					}
-				},
-				{
-					"filename": "isopod-maze-93.png",
-					"region": {
-						"x": 2571,
-						"y": 515,
-						"w": 512,
-						"h": 512
-					},
-					"margin": {
-						"x": 0,
-						"y": 0,
-						"w": 0,
-						"h": 0
-					}
-				},
-				{
-					"filename": "isopod-maze-94.png",
-					"region": {
-						"x": 3085,
 						"y": 1,
-						"w": 512,
-						"h": 512
-					},
-					"margin": {
-						"x": 0,
-						"y": 0,
-						"w": 0,
-						"h": 0
-					}
-				},
-				{
-					"filename": "isopod-maze-113.png",
-					"region": {
-						"x": 1029,
-						"y": 2571,
-						"w": 512,
-						"h": 512
-					},
-					"margin": {
-						"x": 0,
-						"y": 0,
-						"w": 0,
-						"h": 0
-					}
-				},
-				{
-					"filename": "isopod-maze-115.png",
-					"region": {
-						"x": 1029,
-						"y": 3085,
 						"w": 512,
 						"h": 512
 					},
@@ -475,8 +235,8 @@
 				{
 					"filename": "isopod-maze-63.png",
 					"region": {
-						"x": 1543,
-						"y": 2057,
+						"x": 2571,
+						"y": 1,
 						"w": 511,
 						"h": 512
 					},
@@ -488,10 +248,100 @@
 					}
 				},
 				{
-					"filename": "isopod-maze-88.png",
+					"filename": "isopod-maze-84.png",
+					"region": {
+						"x": 1,
+						"y": 2571,
+						"w": 512,
+						"h": 512
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "isopod-maze-91.png",
+					"region": {
+						"x": 515,
+						"y": 2057,
+						"w": 512,
+						"h": 512
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "isopod-maze-93.png",
+					"region": {
+						"x": 1029,
+						"y": 1543,
+						"w": 512,
+						"h": 512
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "isopod-maze-94.png",
+					"region": {
+						"x": 1543,
+						"y": 1029,
+						"w": 512,
+						"h": 512
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "isopod-maze-113.png",
 					"region": {
 						"x": 2057,
-						"y": 1543,
+						"y": 515,
+						"w": 512,
+						"h": 512
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "isopod-maze-115.png",
+					"region": {
+						"x": 1,
+						"y": 3085,
+						"w": 512,
+						"h": 512
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 0
+					}
+				},
+				{
+					"filename": "isopod-maze-88.png",
+					"region": {
+						"x": 515,
+						"y": 2571,
 						"w": 512,
 						"h": 500
 					},
@@ -505,8 +355,8 @@
 				{
 					"filename": "isopod-maze-70.png",
 					"region": {
-						"x": 2571,
-						"y": 1029,
+						"x": 1029,
+						"y": 2057,
 						"w": 512,
 						"h": 461
 					},
@@ -520,8 +370,8 @@
 				{
 					"filename": "isopod-maze-77.png",
 					"region": {
-						"x": 3085,
-						"y": 515,
+						"x": 1543,
+						"y": 1543,
 						"w": 455,
 						"h": 512
 					},
@@ -535,8 +385,8 @@
 				{
 					"filename": "isopod-maze-74.png",
 					"region": {
-						"x": 2571,
-						"y": 1492,
+						"x": 2057,
+						"y": 1029,
 						"w": 512,
 						"h": 437
 					},
@@ -550,8 +400,8 @@
 				{
 					"filename": "isopod-maze-71.png",
 					"region": {
-						"x": 1543,
-						"y": 2571,
+						"x": 515,
+						"y": 3073,
 						"w": 512,
 						"h": 427
 					},
@@ -565,8 +415,8 @@
 				{
 					"filename": "isopod-maze-72.png",
 					"region": {
-						"x": 1543,
-						"y": 3000,
+						"x": 1029,
+						"y": 2520,
 						"w": 512,
 						"h": 425
 					},
@@ -580,8 +430,8 @@
 				{
 					"filename": "isopod-maze-60.png",
 					"region": {
-						"x": 3599,
-						"y": 1,
+						"x": 2571,
+						"y": 515,
 						"w": 421,
 						"h": 512
 					},
@@ -593,10 +443,25 @@
 					}
 				},
 				{
+					"filename": "isopod-maze-46.png",
+					"region": {
+						"x": 1029,
+						"y": 2947,
+						"w": 512,
+						"h": 415
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 97
+					}
+				},
+				{
 					"filename": "isopod-maze-61.png",
 					"region": {
-						"x": 3542,
-						"y": 515,
+						"x": 1543,
+						"y": 2057,
 						"w": 456,
 						"h": 466
 					},
@@ -608,25 +473,10 @@
 					}
 				},
 				{
-					"filename": "isopod-maze-46.png",
-					"region": {
-						"x": 3085,
-						"y": 1029,
-						"w": 512,
-						"h": 415
-					},
-					"margin": {
-						"x": 0,
-						"y": 0,
-						"w": 0,
-						"h": 97
-					}
-				},
-				{
 					"filename": "isopod-maze-86.png",
 					"region": {
-						"x": 3085,
-						"y": 1446,
+						"x": 1543,
+						"y": 2525,
 						"w": 512,
 						"h": 415
 					},
@@ -638,40 +488,10 @@
 					}
 				},
 				{
-					"filename": "isopod-maze-82.png",
-					"region": {
-						"x": 3599,
-						"y": 983,
-						"w": 338,
-						"h": 512
-					},
-					"margin": {
-						"x": 0,
-						"y": 0,
-						"w": 174,
-						"h": 0
-					}
-				},
-				{
-					"filename": "isopod-maze-76.png",
-					"region": {
-						"x": 3599,
-						"y": 1497,
-						"w": 420,
-						"h": 354
-					},
-					"margin": {
-						"x": 0,
-						"y": 0,
-						"w": 92,
-						"h": 158
-					}
-				},
-				{
 					"filename": "isopod-maze-45.png",
 					"region": {
-						"x": 2571,
-						"y": 1931,
+						"x": 1543,
+						"y": 2942,
 						"w": 512,
 						"h": 414
 					},
@@ -683,10 +503,55 @@
 					}
 				},
 				{
+					"filename": "isopod-maze-82.png",
+					"region": {
+						"x": 2571,
+						"y": 1029,
+						"w": 338,
+						"h": 512
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 174,
+						"h": 0
+					}
+				},
+				{
+					"filename": "isopod-maze-114.png",
+					"region": {
+						"x": 1,
+						"y": 3599,
+						"w": 512,
+						"h": 182
+					},
+					"margin": {
+						"x": 0,
+						"y": 330,
+						"w": 0,
+						"h": 330
+					}
+				},
+				{
+					"filename": "isopod-maze-65.png",
+					"region": {
+						"x": 515,
+						"y": 3502,
+						"w": 512,
+						"h": 277
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 235
+					}
+				},
+				{
 					"filename": "isopod-maze-87.png",
 					"region": {
-						"x": 3085,
-						"y": 1863,
+						"x": 1029,
+						"y": 3364,
 						"w": 512,
 						"h": 408
 					},
@@ -698,25 +563,10 @@
 					}
 				},
 				{
-					"filename": "isopod-maze-53.png",
-					"region": {
-						"x": 2057,
-						"y": 2045,
-						"w": 512,
-						"h": 390
-					},
-					"margin": {
-						"x": 0,
-						"y": 0,
-						"w": 0,
-						"h": 122
-					}
-				},
-				{
 					"filename": "isopod-maze-73.png",
 					"region": {
-						"x": 2057,
-						"y": 2437,
+						"x": 1543,
+						"y": 3358,
 						"w": 512,
 						"h": 391
 					},
@@ -728,10 +578,40 @@
 					}
 				},
 				{
-					"filename": "isopod-maze-92.png",
+					"filename": "isopod-maze-53.png",
+					"region": {
+						"x": 2057,
+						"y": 1468,
+						"w": 512,
+						"h": 390
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 122
+					}
+				},
+				{
+					"filename": "isopod-maze-76.png",
 					"region": {
 						"x": 2571,
-						"y": 2347,
+						"y": 1543,
+						"w": 420,
+						"h": 354
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 92,
+						"h": 158
+					}
+				},
+				{
+					"filename": "isopod-maze-92.png",
+					"region": {
+						"x": 2001,
+						"y": 1860,
 						"w": 512,
 						"h": 373
 					},
@@ -743,10 +623,40 @@
 					}
 				},
 				{
+					"filename": "isopod-maze-67.png",
+					"region": {
+						"x": 2001,
+						"y": 2235,
+						"w": 512,
+						"h": 264
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 0,
+						"h": 248
+					}
+				},
+				{
+					"filename": "isopod-maze-99.png",
+					"region": {
+						"x": 2057,
+						"y": 2501,
+						"w": 308,
+						"h": 512
+					},
+					"margin": {
+						"x": 204,
+						"y": 0,
+						"w": 204,
+						"h": 0
+					}
+				},
+				{
 					"filename": "isopod-maze-85.png",
 					"region": {
-						"x": 3085,
-						"y": 2273,
+						"x": 2515,
+						"y": 1899,
 						"w": 512,
 						"h": 346
 					},
@@ -758,10 +668,40 @@
 					}
 				},
 				{
-					"filename": "isopod-maze-81.png",
+					"filename": "isopod-maze-78.png",
+					"region": {
+						"x": 2515,
+						"y": 2247,
+						"w": 512,
+						"h": 303
+					},
+					"margin": {
+						"x": 0,
+						"y": 209,
+						"w": 0,
+						"h": 209
+					}
+				},
+				{
+					"filename": "isopod-maze-62.png",
 					"region": {
 						"x": 2057,
-						"y": 2830,
+						"y": 3015,
+						"w": 289,
+						"h": 447
+					},
+					"margin": {
+						"x": 0,
+						"y": 49,
+						"w": 223,
+						"h": 65
+					}
+				},
+				{
+					"filename": "isopod-maze-81.png",
+					"region": {
+						"x": 2367,
+						"y": 2552,
 						"w": 512,
 						"h": 343
 					},
@@ -775,8 +715,8 @@
 				{
 					"filename": "isopod-maze-89.png",
 					"region": {
-						"x": 2571,
-						"y": 2722,
+						"x": 2367,
+						"y": 2897,
 						"w": 512,
 						"h": 338
 					},
@@ -790,8 +730,8 @@
 				{
 					"filename": "isopod-maze-90.png",
 					"region": {
-						"x": 3085,
-						"y": 2621,
+						"x": 2348,
+						"y": 3237,
 						"w": 512,
 						"h": 337
 					},
@@ -803,100 +743,10 @@
 					}
 				},
 				{
-					"filename": "isopod-maze-99.png",
-					"region": {
-						"x": 3599,
-						"y": 1853,
-						"w": 308,
-						"h": 512
-					},
-					"margin": {
-						"x": 204,
-						"y": 0,
-						"w": 204,
-						"h": 0
-					}
-				},
-				{
-					"filename": "isopod-maze-65.png",
-					"region": {
-						"x": 2057,
-						"y": 3175,
-						"w": 512,
-						"h": 277
-					},
-					"margin": {
-						"x": 0,
-						"y": 0,
-						"w": 0,
-						"h": 235
-					}
-				},
-				{
-					"filename": "isopod-maze-78.png",
-					"region": {
-						"x": 2571,
-						"y": 3062,
-						"w": 512,
-						"h": 303
-					},
-					"margin": {
-						"x": 0,
-						"y": 209,
-						"w": 0,
-						"h": 209
-					}
-				},
-				{
-					"filename": "isopod-maze-67.png",
-					"region": {
-						"x": 3085,
-						"y": 2960,
-						"w": 512,
-						"h": 264
-					},
-					"margin": {
-						"x": 0,
-						"y": 0,
-						"w": 0,
-						"h": 248
-					}
-				},
-				{
-					"filename": "isopod-maze-62.png",
-					"region": {
-						"x": 3599,
-						"y": 2367,
-						"w": 289,
-						"h": 447
-					},
-					"margin": {
-						"x": 0,
-						"y": 49,
-						"w": 223,
-						"h": 65
-					}
-				},
-				{
-					"filename": "isopod-maze-114.png",
-					"region": {
-						"x": 3085,
-						"y": 3226,
-						"w": 512,
-						"h": 182
-					},
-					"margin": {
-						"x": 0,
-						"y": 330,
-						"w": 0,
-						"h": 330
-					}
-				},
-				{
 					"filename": "isopod-maze-98.png",
 					"region": {
-						"x": 3599,
-						"y": 2816,
+						"x": 2881,
+						"y": 2552,
 						"w": 188,
 						"h": 512
 					},
@@ -908,25 +758,10 @@
 					}
 				},
 				{
-					"filename": "isopod-maze-69.png",
-					"region": {
-						"x": 2571,
-						"y": 3367,
-						"w": 512,
-						"h": 76
-					},
-					"margin": {
-						"x": 0,
-						"y": 309,
-						"w": 0,
-						"h": 436
-					}
-				},
-				{
 					"filename": "isopod-maze-83.png",
 					"region": {
-						"x": 1543,
-						"y": 3427,
+						"x": 2057,
+						"y": 3464,
 						"w": 242,
 						"h": 77
 					},
@@ -936,6 +771,21 @@
 						"w": 270,
 						"h": 435
 					}
+				},
+				{
+					"filename": "isopod-maze-69.png",
+					"region": {
+						"x": 2057,
+						"y": 3576,
+						"w": 512,
+						"h": 76
+					},
+					"margin": {
+						"x": 0,
+						"y": 309,
+						"w": 0,
+						"h": 436
+					}
 				}
 			]
 		}
@@ -943,6 +793,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "1.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:7af745d7d3352ea2cb321958d152dcdf:f1a45eccf196867fc78806250f654fa0:a58e958e052739a4290b78244dec09a2$"
+		"smartupdate": "$TexturePacker:SmartUpdate:8fe2dc1f41f8f1b20102a0309b559b0f:0434ae6bff4b2ecc704604fa0629dc6a:a58e958e052739a4290b78244dec09a2$"
 	}
 }
